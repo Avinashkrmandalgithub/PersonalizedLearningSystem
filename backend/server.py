@@ -144,6 +144,10 @@ class RecommendationRequest(BaseModel):
     code_presentation: str
     top_k: int = 5
 
+class DashboardRequest(BaseModel):
+    id_student: int
+    code_module: str
+    code_presentation: str
 
 # =========================================================
 # BASIC ROUTES
@@ -460,4 +464,213 @@ def recommend(data: RecommendationRequest):
         "seen_resources_removed": len(seen_resources),
         "candidate_resources": len(candidates),
         "recommendations": recommendations
+    }
+
+
+@app.post("/student-dashboard")
+def student_dashboard(data: DashboardRequest):
+
+    # -----------------------------------------------------
+    # 1. Find learner profile
+    # -----------------------------------------------------
+
+    learner = learner_history_features[
+        (learner_history_features["id_student"] == data.id_student)
+        &
+        (learner_history_features["code_module"] == data.code_module)
+        &
+        (
+            learner_history_features["code_presentation"]
+            == data.code_presentation
+        )
+    ]
+
+    if learner.empty:
+        return {
+            "student": data.id_student,
+            "course": data.code_module,
+            "presentation": data.code_presentation,
+            "found": False,
+            "message": (
+                "No learning profile found for this "
+                "student-course combination."
+            )
+        }
+
+    learner_row = learner.iloc[0]
+
+
+    # -----------------------------------------------------
+    # 2. Basic learning snapshot
+    # -----------------------------------------------------
+
+    total_clicks = int(
+        learner_row["history_total_clicks"]
+    )
+
+    unique_resources = int(
+        learner_row["history_unique_resources"]
+    )
+
+    active_days = int(
+        learner_row["history_active_days"]
+    )
+
+    learning_span = int(
+        learner_row["history_learning_span"]
+    )
+
+    avg_clicks_per_day = round(
+        float(learner_row["avg_clicks_per_active_day"]),
+        2
+    )
+
+
+    # -----------------------------------------------------
+    # 3. Academic information
+    # -----------------------------------------------------
+
+    average_score = learner_row[
+        "historical_average_score"
+    ]
+
+    assessment_count = learner_row[
+        "historical_assessment_count"
+    ]
+
+    if pd.isna(average_score):
+        average_score = None
+    else:
+        average_score = round(
+            float(average_score),
+            2
+        )
+
+    if pd.isna(assessment_count):
+        assessment_count = None
+    else:
+        assessment_count = int(
+            assessment_count
+        )
+
+
+    # -----------------------------------------------------
+    # 4. Activity breakdown
+    # -----------------------------------------------------
+
+    activity_data = learner_activity_profile[
+        (learner_activity_profile["id_student"] == data.id_student)
+        &
+        (
+            learner_activity_profile["code_module"]
+            == data.code_module
+        )
+        &
+        (
+            learner_activity_profile["code_presentation"]
+            == data.code_presentation
+        )
+    ].copy()
+
+    activity_breakdown = []
+
+    if not activity_data.empty:
+
+        activity_data = activity_data.sort_values(
+            "activity_clicks",
+            ascending=False
+        )
+
+        for _, row in activity_data.iterrows():
+
+            activity_breakdown.append({
+                "activity_type": row["activity_type"],
+                "clicks": int(row["activity_clicks"]),
+                "share": round(
+                    float(row["activity_preference_score"]) * 100,
+                    2
+                )
+            })
+
+
+    # -----------------------------------------------------
+    # 5. Course resource statistics
+    # -----------------------------------------------------
+
+    course_resources = resource_catalog[
+        (resource_catalog["code_module"] == data.code_module)
+        &
+        (
+            resource_catalog["code_presentation"]
+            == data.code_presentation
+        )
+    ]
+
+    total_course_resources = len(
+        course_resources
+    )
+
+
+    # -----------------------------------------------------
+    # 6. Already explored resources
+    # -----------------------------------------------------
+
+    seen_resources = history_resource_lookup[
+        (history_resource_lookup["id_student"] == data.id_student)
+        &
+        (
+            history_resource_lookup["code_module"]
+            == data.code_module
+        )
+        &
+        (
+            history_resource_lookup["code_presentation"]
+            == data.code_presentation
+        )
+    ]["id_site"].nunique()
+
+
+    # -----------------------------------------------------
+    # 7. New resources
+    # -----------------------------------------------------
+
+    new_resources = max(
+        total_course_resources - seen_resources,
+        0
+    )
+
+
+    # -----------------------------------------------------
+    # 8. Return dashboard data
+    # -----------------------------------------------------
+
+    return {
+        "found": True,
+
+        "student": data.id_student,
+
+        "course": data.code_module,
+
+        "presentation": data.code_presentation,
+
+        "snapshot": {
+            "total_clicks": total_clicks,
+            "unique_resources": unique_resources,
+            "active_days": active_days,
+            "learning_span_days": learning_span,
+            "average_clicks_per_day": avg_clicks_per_day
+        },
+
+        "academic": {
+            "average_score": average_score,
+            "assessment_count": assessment_count
+        },
+
+        "resources": {
+            "total_course_resources": total_course_resources,
+            "already_explored": seen_resources,
+            "new_resources": new_resources
+        },
+
+        "activity_breakdown": activity_breakdown
     }
