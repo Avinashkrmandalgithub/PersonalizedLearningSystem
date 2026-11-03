@@ -1,0 +1,682 @@
+Student-Id,Course Name,Topic,Resource Type,Difficulty,Priority,Reason
+201801001,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801001,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801001,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801001,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801001,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801001,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801001,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801002,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801002,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801002,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801002,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801003,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801003,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801003,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801003,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801003,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801003,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801003,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801004,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801004,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801004,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801004,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801004,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801004,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801004,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801004,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801005,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801005,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801005,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801005,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801005,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801005,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801005,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801006,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801006,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801006,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801007,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801007,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801007,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801008,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801008,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801008,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801009,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801009,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801009,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801010,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801010,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801010,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801010,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801011,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801011,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801011,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801011,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801011,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801011,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801012,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801012,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801012,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801013,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801013,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801013,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801014,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801014,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801014,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801014,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801015,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801015,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801015,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801015,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801016,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801016,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801016,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801017,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801017,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801017,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801018,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801018,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801018,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801019,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801019,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801019,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801019,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801019,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801019,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801019,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801020,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801020,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801020,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801020,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801021,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801021,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801021,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801022,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801022,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801022,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801022,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801022,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801022,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801022,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801023,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801023,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801023,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801024,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801024,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801024,Communication Engineering,Communication Systems Practice,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801025,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801025,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801025,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801025,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801025,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801025,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801026,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801026,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801026,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801026,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801027,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801027,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801027,Communication Engineering,Communication Systems Practice,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801028,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801028,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801028,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801028,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801029,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801029,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801029,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801029,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801030,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801030,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801030,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801031,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801031,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801031,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801031,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801031,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801031,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801031,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801032,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801032,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801032,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801033,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801033,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801033,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801034,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801034,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801034,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801034,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801036,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801036,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801036,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801037,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801037,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801037,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801037,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801038,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801038,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801038,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801039,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801039,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801039,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801040,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801040,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801040,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801040,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801041,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801041,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801041,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801041,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801042,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801042,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801042,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801042,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801042,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801042,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801043,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801043,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801043,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801044,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801044,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801044,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801044,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801045,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801045,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801045,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801046,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801046,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801046,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801046,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801047,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801047,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801047,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801048,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801048,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801048,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801048,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801048,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801048,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801048,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801048,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801049,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801049,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801049,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801050,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801050,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801050,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801050,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801051,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801051,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801051,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801052,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801052,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801052,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801053,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801053,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801053,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801054,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801054,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801054,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801054,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801055,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801055,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801055,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801056,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801056,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801056,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801056,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801057,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801057,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801057,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801057,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801058,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801058,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801058,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801058,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801058,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801058,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801058,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801059,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801059,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801059,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801059,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801060,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801060,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801060,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801060,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801061,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801061,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801061,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801061,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801062,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801062,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801062,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801062,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801063,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801063,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801063,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801063,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801064,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801064,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801064,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801064,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801064,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801064,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801064,Communication Engineering,Communication Systems Practice,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801065,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801065,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801065,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801065,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801066,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801066,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801066,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801066,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801067,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801067,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801067,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801068,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801068,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801068,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801068,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801068,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801068,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801069,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801069,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801069,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801070,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801070,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801070,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801071,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801071,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801071,Communication Engineering,Communication Systems Practice,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801072,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801072,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801072,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801073,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801073,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801073,Communication Engineering,Communication Systems Practice,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801074,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801074,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801074,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801075,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801075,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801075,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801076,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801076,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801076,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801077,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801077,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801077,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801077,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801077,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801077,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801077,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801078,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801078,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801078,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801079,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801079,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801079,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801079,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801080,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801080,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801080,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801081,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801081,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801081,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801081,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801082,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801082,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801082,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801082,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801083,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801083,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801083,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801083,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801084,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801084,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801084,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801084,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801084,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801084,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801085,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801085,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801085,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801086,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801086,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801086,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801087,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801087,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801087,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801088,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801088,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801088,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801088,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801089,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801089,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801089,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801090,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801090,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801090,Communication Engineering,Communication Systems Practice,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801091,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801091,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801091,Communication Engineering,Communication Systems Practice,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801092,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801092,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801092,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801092,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801092,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801092,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801092,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801092,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801093,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801093,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801093,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801093,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801094,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801094,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801094,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801094,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801095,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801095,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801095,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801096,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801096,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801096,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801096,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801096,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801096,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801098,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801098,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801098,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801098,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801099,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801099,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801099,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801099,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801100,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801100,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801100,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801101,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801101,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801101,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801101,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801102,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801102,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801102,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801103,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801103,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801103,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801103,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801104,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801104,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801104,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801105,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801105,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801105,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801106,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801106,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801106,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801107,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801107,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801107,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801107,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801108,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801108,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801108,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801109,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801109,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801109,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801110,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801110,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801110,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801110,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801111,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801111,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801111,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801112,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801112,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801112,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801112,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801112,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801112,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801113,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801113,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801113,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801113,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801113,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801113,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801113,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801114,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801114,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801114,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801114,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801115,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801115,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801115,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801115,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801115,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801115,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801116,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801116,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801116,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801116,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801116,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801116,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801116,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801116,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801117,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801117,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801117,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801117,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801117,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801117,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801118,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801118,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801118,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801118,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801118,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801118,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801118,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801119,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801119,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801119,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801120,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801120,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801120,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801121,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801121,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801121,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801123,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801123,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801123,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801123,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801123,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801123,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801123,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801124,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801124,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801124,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801124,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801124,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801124,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801124,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801125,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801125,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801125,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801126,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801126,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801126,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801127,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801127,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801127,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801127,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801128,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801128,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801128,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801129,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801129,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801129,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801130,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801130,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801130,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801131,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801131,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801131,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801132,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801132,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801132,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801132,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801132,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801132,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801132,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801133,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801133,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801133,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801133,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801133,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801133,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801133,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801134,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801134,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801134,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801134,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801134,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801134,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801135,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801135,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801135,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801135,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801135,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801135,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801136,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801136,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801136,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801136,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801136,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801136,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801136,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801137,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801137,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801137,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801138,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801138,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801138,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801139,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801139,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801139,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801139,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801140,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801140,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801140,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801140,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801141,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801141,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801141,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801142,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801142,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801142,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801143,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801143,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801143,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801143,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801144,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801144,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801144,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801145,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801145,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801145,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801145,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801146,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801146,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801146,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801147,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801147,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801147,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801147,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801148,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801148,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801148,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801149,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801149,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801149,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801150,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801150,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801150,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801150,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801151,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801151,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801151,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801152,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801152,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801152,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801152,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801153,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801153,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801153,Discrete Mathematics,Graph Theory,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801154,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801154,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801154,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801154,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801155,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801155,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801155,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801155,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801156,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801156,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801156,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801156,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801157,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801157,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801157,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801158,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801158,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801158,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801158,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801159,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801159,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801159,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801159,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801160,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801160,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801160,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801160,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801160,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801160,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801161,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801161,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801161,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801161,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801161,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801161,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801161,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801162,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801162,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801162,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801162,Discrete Mathematics,Logic and Propositions,Notes,Beginner,2,Beginner resource recommended for revision.
+201801162,Discrete Mathematics,Relations and Functions,Video,Beginner,2,Beginner resource recommended for revision.
+201801162,Discrete Mathematics,Graph Theory,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801163,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801163,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801163,Data Structures,Trees and Graphs,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801163,Data Structures,Sorting and Searching,Practice,Intermediate,3,Additional learning resource for enrolled course.
+201801163,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801163,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801163,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801163,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,2,Beginner resource recommended for revision.
+201801164,Data Structures,Arrays and Linked Lists,Notes,Beginner,2,Beginner resource recommended for revision.
+201801164,Data Structures,Stack and Queue,Video,Beginner,2,Beginner resource recommended for revision.
+201801164,Data Structures,Trees and Graphs,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801164,Data Structures,Sorting and Searching,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801164,Object Oriented Programming,Classes and Objects,Notes,Beginner,2,Beginner resource recommended for revision.
+201801164,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801164,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate,3,Additional learning resource for enrolled course.
+201801164,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner,1,Practice recommended due to previous attempts.
+201801165,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801165,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801165,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801166,Communication Engineering,Analog Communication Basics,Notes,Beginner,2,Beginner resource recommended for revision.
+201801166,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate,3,Additional learning resource for enrolled course.
+201801166,Communication Engineering,Communication Systems Practice,Practice,Intermediate,1,Practice recommended due to previous attempts.
+201801167,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner,2,Beginner resource recommended for revision.
+201801167,Digital Principles and System Design,Logic Gates,Video,Beginner,2,Beginner resource recommended for revision.
+201801167,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate,1,Practice recommended due to previous attempts.

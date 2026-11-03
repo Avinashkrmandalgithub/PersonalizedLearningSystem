@@ -1,14 +1,28 @@
-# Virtual environment
-.venv/
-
 # Python
+.venv/
+venv/
 __pycache__/
-*.pyc
+*.py[cod]
 .ipynb_checkpoints/
 
-# Environment
-.env
+# Node
+node_modules/
+dist/
 
-# OULAD datasets
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Editor and OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.log
+*.tmp
+
+# Large raw datasets and generated duplicates
 dataset/raw/
-dataset/processed/
+outputs/

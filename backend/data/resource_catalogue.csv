@@ -1,0 +1,18 @@
+Resource ID,Course Code,Course Name,Topic,Resource Type,Difficulty
+R001,CS8391,Data Structures,Arrays and Linked Lists,Notes,Beginner
+R002,CS8391,Data Structures,Stack and Queue,Video,Beginner
+R003,CS8391,Data Structures,Trees and Graphs,Practice,Intermediate
+R004,CS8391,Data Structures,Sorting and Searching,Practice,Intermediate
+R005,CS8392,Object Oriented Programming,Classes and Objects,Notes,Beginner
+R006,CS8392,Object Oriented Programming,Inheritance and Polymorphism,Video,Intermediate
+R007,CS8392,Object Oriented Programming,Abstraction and Encapsulation,Notes,Intermediate
+R008,CS8392,Object Oriented Programming,OOP Coding Exercises,Practice,Beginner
+R009,CS8351,Digital Principles and System Design,Number Systems and Boolean Algebra,Notes,Beginner
+R010,CS8351,Digital Principles and System Design,Logic Gates,Video,Beginner
+R011,CS8351,Digital Principles and System Design,Combinational Circuits,Practice,Intermediate
+R012,EC8395,Communication Engineering,Analog Communication Basics,Notes,Beginner
+R013,EC8395,Communication Engineering,Amplitude and Frequency Modulation,Video,Intermediate
+R014,EC8395,Communication Engineering,Communication Systems Practice,Practice,Intermediate
+R015,MA8351,Discrete Mathematics,Logic and Propositions,Notes,Beginner
+R016,MA8351,Discrete Mathematics,Relations and Functions,Video,Beginner
+R017,MA8351,Discrete Mathematics,Graph Theory,Practice,Intermediate
