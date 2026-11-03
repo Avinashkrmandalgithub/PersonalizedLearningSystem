@@ -1,20 +1,32 @@
-
-from fastapi import FastAPI, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
-from pathlib import Path
+import os
 import pandas as pd
 
-app = FastAPI(title="Personalized Learning Recommendation System")
+from pathlib import Path
+from dotenv import load_dotenv
+from fastapi import FastAPI
+from fastapi.middleware.cors import CORSMiddleware
 
-# React development server access
+load_dotenv()
+
+app = FastAPI(
+    title="Personalized Learning Recommendation System API",
+    version="1.0.0"
+)
+
+frontend_urls = [
+    url.strip().rstrip("/")
+    for url in os.getenv(
+        "FRONTEND_URLS",
+        "http://localhost:5173"
+    ).split(",")
+    if url.strip()
+]
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=[
-        "http://localhost:5173",
-        "http://127.0.0.1:5173"
-    ],
+    allow_origins=frontend_urls,
     allow_credentials=True,
-    allow_methods=["*"],
+    allow_methods=["GET"],
     allow_headers=["*"],
 )
 
